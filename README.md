@@ -5,7 +5,7 @@
 
 一个把鼠标滑杆做成「梁系强度校准器」的网页小玩具，外加一块免登录的社区投票板。拖动滑杆，人物会在 241 帧插值视频中连续变化，从「小难梁」一路进化到佩戴帝冕的「梁祖」；投票区让整个社区一起决定梁系今天的强度。
 
-**在线体验（推荐）**：<https://liang.itsuyo.top/> —— Cloudflare Workers 部署，含社区投票
+**在线体验（推荐）**：<https://liang-intensity-calibrator.pages.dev> —— Cloudflare Workers 部署，含社区投票
 **原项目 GitHub Pages**（上游 Lichtspektrum 仓库）：<https://lichtspektrum.github.io/liang-intensity-calibrator/>
 
 ## 有什么
